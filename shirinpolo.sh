@@ -419,3 +419,4 @@ function usage {
 [ -z "$1" ]          && usage
 [ "$1" = "install" ] && install
 [ "$1" = "start" ]   && start
+[ "$1" = "stop" ]    && stop
