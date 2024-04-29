@@ -420,3 +420,4 @@ function usage {
 [ "$1" = "install" ] && install
 [ "$1" = "start" ]   && start
 [ "$1" = "stop" ]    && stop
+[ "$1" = "startup" ] && startup
