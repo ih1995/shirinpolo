@@ -1,2 +1,2 @@
 # shirinpoolo
-a funy fork from openssh-server protocol
+a funy fork from openssh-server service and SSH protocol
